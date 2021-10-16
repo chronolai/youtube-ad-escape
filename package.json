@@ -1,7 +1,7 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "4.0.1",
-  "description": "A chrome extension boilerplate built with React 17 and Webpack 5",
+  "name": "youtube-ad-escape",
+  "version": "1.0.0",
+  "description": "Skip youtube ad by ESC",
   "license": "MIT",
   "repository": {
     "type": "git",
